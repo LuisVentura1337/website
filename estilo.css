@@ -1,0 +1,257 @@
+body{
+   background-color: #272727;
+}
+
+.rectangulo{
+    width: 350px;
+    height: 700px;
+    background: #a63e49;
+    float:left;
+
+}
+
+.rectangulo img{
+    width: 150px;
+    height: 120px;
+    border-radius: 5px;
+    float:center;
+    margin-right: 15px;
+   
+}
+.rectangulo h1{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 35px;
+    color: #FFFFFF;
+}
+
+.rectangulo p{
+    text-align: center;
+    margin-top: 5px;
+    font-size: 22px;
+    color: #FFFFFF;
+}
+.rectangulo p:hover{
+    color: #a63e49;
+    background-color: #FFFFFF;
+}
+
+
+.parrafo0{
+    text-align:center;
+   margin-top: 15px;
+   font-size: 16px;
+   color: #FFFFFF;
+float:right;
+}
+
+
+.parrafo1 p{
+   text-align: justify;
+   margin-top: 15px;
+   font-size: 20px;
+   color: #FFFFFF;
+   
+}
+.parrafo1 img{
+   width: 300px;
+   height: 200px;
+   border-radius: 5px;
+   float: left;
+   margin-right: 15px;
+   color: #FFFFFF;
+}
+.btn1,.btn2{
+   color:#a63e49;
+   padding:10px;
+   cursor:pointer;
+}
+.btn1:hover{
+   background-color: #a63e49;
+   color:cornsilk;
+}
+
+.btn2:hover{
+   background-color: #a63e49;
+   color:cornsilk;
+}
+
+
+.parrafo2 h1{
+    text-align: justify;
+    margin-top: 20px;
+    font-size: 32px;
+    color: #FFFFFF;
+}
+.parrafo2 p{
+    text-align: justify;
+    margin-top: 15px;
+    font-size: 20px;
+    color: #FFFFFF;
+ }
+ .parrafo2 img{
+    width: 300px;
+    height: 200px;
+    border-radius: 5px;
+    float:right;
+    margin-right: 15px;
+    color: #FFFFFF;
+ }
+ .parrafo3 h1{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 32px;
+    color: #FFFFFF;
+ }
+ .parrafo3 img{
+   width: 300px;
+   height: 200px;
+   float:center;
+   margin-right: 15px;
+   color: #FFFFFF;
+}
+ .parrafo3 p{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 20px;
+    color: #FFFFFF;
+ }
+
+ .cuadrado{
+   width: 500px;
+   height: 400px;
+   background: #3D3C3B;
+  margin-bottom: 30px;
+  display: inline-block;
+  border-radius: 10px;
+}
+
+.cuadrado img{
+   width: 100px;
+   height: 100px;
+   border-radius: 5px;
+   float:center;
+   margin-right: 15px;
+
+}
+.cuadrado h1{
+   text-align:center;
+   margin-top: 44px;
+   font-size: 44px;
+   color:#FFFFFF;
+
+}
+
+.cuadrado p{
+   text-align:justify;
+   margin-top: 10px;
+   font-size: 22px;
+   color: #FFFFFF;
+}
+ .parrafo4 h1{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 32px;
+    color: #FFFFFF;
+
+ }
+ .parrafo4 p{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 20px;
+    color: #FFFFFF;
+ }
+
+ .parrafo4 #img1,#img2{
+   width: 300px;
+   height: 200px;
+   border-radius: 5px;
+   float:unset;
+   margin-right: 15px;
+   color: #FFFFFF;
+}
+.parrafo4 #img3,#img4{
+   width: 300px;
+   height: 200px;
+   border-radius: 5px;
+   float:unset;
+   margin-right: 15px;
+   color: #FFFFFF;
+}
+
+.parrafo4 #img5,#img6{
+   width: 300px;
+   height: 200px;
+   border-radius: 5px;
+   float:unset;
+   margin-right: 15px;
+   color: #FFFFFF;
+}
+
+ .parrafo5 h1{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 32px;
+    color: #FFFFFF;
+ }
+ .parrafo5 p{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 20px;
+    color: #FFFFFF;
+ }
+ .parrafo5 section{
+    text-align: center;
+    margin-top: 15px;
+    font-size: 20px;
+    color: #FFFFFF;
+ }
+ .parrafo5 input{
+    width: 800px;
+    height: 50px;
+    border-radius: 5px;
+    float:center;
+    margin-right: 15px;
+    color:	#808080
+ }
+
+ .controls1{
+    width:50%;
+    background: #272727;
+    padding: 10px;
+    border: radius 4px;
+    margin-bottom: 16px;
+    border: 1px solid wheat;
+    font-family:'calibri';
+    font-size: 18px;
+}
+.controls2{
+    width:50%;
+    background: #272727;
+    padding: 10px;
+    border: radius 4px;
+    margin-bottom: 16px;
+    border: 1px solid wheat;
+    font-family:'calibri';
+    font-size: 18px;
+}
+.controls3{
+    width:50%;
+    background: #272727;
+    padding: 10px;
+    border: radius 4px;
+    margin-bottom: 16px;
+    border: 1px solid wheat;
+    font-family:'calibri';
+    font-size: 18px;
+}
+.controls4{
+    width: 50%;
+    background: #272727;
+    padding: 10px;
+    border-radius:5px;
+    margin-bottom: 40px;
+    border: 1px solid wheat;
+    font-family:'calibri';
+    font-size: 18px;
+}
